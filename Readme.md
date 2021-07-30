@@ -12,7 +12,7 @@
 - Projects/Showcase - MAshaaricda
 - Contact and Resume - Goobta laagala so xidhiidhayo
 
-# Sidee u istimcalaya ama u bilabaysaa template-kan
+# Sidee u istimcalaya ama u bilabaysaa template-kan  🎁
 
 - Fur File Explorer-kaaga 
 - Fur folder aad ku save-gareesey File-ka 
