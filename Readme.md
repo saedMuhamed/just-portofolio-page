@@ -14,9 +14,9 @@
 
 # Sidee u istimcalaya ama u bilabaysaa template-kan
 
-- Fur Terminal-ka kuna qor
-- Run `npm i`
-- server-ka waxaad kusoo kicinaya `npm start`
+- Fur File Explorer-kaaga 
+- Fur folder aad ku save-gareesey File-ka 
+- Folder > File > laba jeer ku dhufo file-ka 
 
 # Side u bedbedalaya
 
