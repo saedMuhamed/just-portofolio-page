@@ -57,8 +57,8 @@ Hadda, Websitk-kaagu waa diyaar, waxaand kaso booqan karta website-kan `<your-gi
 
 - [UnDraw](https://undraw.co/illustrations)
 
-# Contacts 📞
-
+# Ila so xidhiidh 📞
+-  Tel - SO (4026056)
 - [Github](https://github.com/saedMuhamed)
 - [Twitter](https://twitter.com/saedmuhamed3)
 - [Faceook](https://www.facebook.com/sxabo)
