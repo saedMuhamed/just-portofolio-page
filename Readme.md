@@ -1,4 +1,4 @@
-# Just a Simple Portfolio 😄
+# Just a Simple Portfolio 
 
 <!-- ![just-a-web-portfolio](/saed.jpg=20x)  -->
 
