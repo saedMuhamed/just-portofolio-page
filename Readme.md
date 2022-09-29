@@ -4,7 +4,7 @@
 
 ### Waa template fudud oo aad ku sameesan kartid portfolio 😃😎
 
-# Qaybaha uu leeyahy Template-kani 🎈🎈
+# Qaybaha uu leeyahy Template-kani 
 
 - Home
 - Education and Certificates - Waxbarashda io Shahaadooyinka
