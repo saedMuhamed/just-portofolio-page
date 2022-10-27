@@ -1,6 +1,6 @@
 # Just a Simple Portfolio 
 
-<!-- ![just-a-web-portfolio](/saed.jpg=20x)  -->
+<!-- ![just-a-web](/saed.jpg=20x)  -->
 
 ### Waa template fudud oo aad ku sameesan kartid portfolio 😃😎
 
