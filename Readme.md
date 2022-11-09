@@ -19,7 +19,6 @@
 - Folder > File > laba jeer ku dhufo file-ka 
 
 # Side u bedbedalaya
-
 - Ku badal `homepage` ee ku dhex jira file-ka package.json kuna badal magaca domain-kaaga ama `https://<username>.github.io`
 - File-ka `src/portfolio.js` waxaad ku badali karta ama ku qori kartaa details-kaaga.
 - Halka `src/theme.js` Waxaad ku badali kartaa midabada aad jeceshahay. waxad isku badali kartaa Light and Dark theme ee ku yaala qaybta sare ee page-ka.
